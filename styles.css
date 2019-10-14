@@ -1,0 +1,28 @@
+body{
+     background-color: antiquewhite;
+     text-align: center;
+}
+.parent{
+     width: 600px;
+     margin: 0 auto;
+}
+.toplink{
+     float: left;
+     margin: 10px 20px;
+     color: turquoise;
+}
+.third-block{
+     margin: 10px auto;
+}
+#first-img{
+    background-image: url('images/bg-1.jpg'); 
+    height:550px;
+}
+.font{
+     font-family: 'Arvo', serif;
+}
+.moreinfo {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
